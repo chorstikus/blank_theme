@@ -12,7 +12,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <?php wp_head(); ?>
-    <script src="<?php echo get_template_directory_uri(); ?>/js/vendor/modernizr.min.js"></script>
+    <script src="<?php echo get_template_directory_uri(); ?>/js/vendor/modernizr.js"></script>
   </head>
   <body <?php body_class( ); ?>>
 
